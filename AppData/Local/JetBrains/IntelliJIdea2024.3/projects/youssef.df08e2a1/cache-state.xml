@@ -1,0 +1,53 @@
+<project version="4">
+  <component name="JSRemoteModulesUsagesDetector">
+    <modules>
+      <module url="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.min.js" />
+      <module url="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" />
+      <module url="https://cdn.plot.ly/plotly-2.17.0.min.js" />
+      <module url="https://cdnjs.cloudflare.com/ajax/libs/jquery.sumoselect/3.4.9/jquery.sumoselect.min.js" />
+    </modules>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <directories>
+      <directory path="$PROJECT_DIR$/AppData/Local/Discord/app-1.0.9173/modules/discord_rpc-1/discord_rpc/node_modules" />
+      <directory path="$PROJECT_DIR$/AppData/Local/Discord/app-1.0.9173/modules/discord_spellcheck-1/discord_spellcheck/node_modules" />
+      <directory path="$PROJECT_DIR$/AppData/Local/Discord/app-1.0.9173/modules/discord_utils-1/discord_utils/node_modules" />
+      <directory path="$PROJECT_DIR$/AppData/Local/Discord/app-1.0.9173/modules/discord_voice-1/discord_voice/node_modules" />
+      <directory path="$PROJECT_DIR$/AppData/Local/Discord/app-1.0.9174/modules/discord_rpc-1/discord_rpc/node_modules" />
+      <directory path="$PROJECT_DIR$/AppData/Local/Discord/app-1.0.9174/modules/discord_spellcheck-1/discord_spellcheck/node_modules" />
+      <directory path="$PROJECT_DIR$/AppData/Local/Discord/app-1.0.9174/modules/discord_utils-1/discord_utils/node_modules" />
+      <directory path="$PROJECT_DIR$/AppData/Local/Discord/app-1.0.9174/modules/discord_voice-1/discord_voice/node_modules" />
+    </directories>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/AppData/Local/Discord/app-1.0.9173/modules/discord_desktop_core-1/discord_desktop_core/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/Discord/app-1.0.9174/modules/discord_desktop_core-1/discord_desktop_core/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Roaming/StarUML/extensions/user/staruml.java/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProcessedFilesStorage">
+    <timestamps>
+      <entry key="18de80c274d244f6dd4f99e40441cca5" value="1735048534601" />
+      <entry key="3e446e4f4ed8aa04f64c94f00d84a301" value="1735048538507" />
+      <entry key="4fe2efb015d75be8414a589ab64c357b" value="1735048525206" />
+      <entry key="8fcf60770661bf4a9ae736814c960bde" value="1735048533381" />
+      <entry key="aa3b1259d547d36277f1f14eed135bc3" value="1735048531806" />
+    </timestamps>
+  </component>
+  <component name="RestoreUpdateTree"><![CDATA[{}]]></component>
+  <component name="VcsDirectoryMappingCache">
+    <option name="roots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+      </set>
+    </option>
+    <option name="vcsName" value="Git" />
+  </component>
+</project>
